@@ -1,8 +1,8 @@
 - 👋 Olá meu nome é @saldainha
 - 👀 Eu estou aprendendo atualmente a programar jogos no GitHub
-- 🌱 Tenho
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Tenho 15 years
+- 💞️ Amo meu pai e a Pandora
+- 📫 Gosto de jogar bola
 
 <!---
 saldainha/saldainha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
